@@ -11,8 +11,7 @@ const About = () => {
                 <div className="about-content">
                     <h2 className="section-title">About Us</h2>
                     <p className="about-text">
-                        Flavourtown is more than just a restaurant; it's a culinary journey. We believe in crafting dishes that are not only visually stunning but also explode with flavor in every bite. Our chefs use only the freshest ingredients to bring you the best dining experience in town.
-                    </p>
+                        12:11 Restaurant is a welcoming dining destination in New GRA, Port Harcourt, known for tasty meals served in a calm and comfortable setting. We focus on quality, consistency, and great customer experience, offering a menu that caters to both local favorites and popular international dishes.</p>
                     <a href="#more" className="button-primary">Read Our Story</a>
                 </div>
             </div>
